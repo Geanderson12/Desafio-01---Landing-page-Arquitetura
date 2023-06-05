@@ -12,7 +12,7 @@ Todas as funcionalidades estão implementadas conforme o briefing.
 LINKS:
 Github: https://github.com/Geanderson12/Desafio-01---Landing-page-Arquitetura
 
-Netlify: 
+Netlify: https://landingpageaquitetura.netlify.app/
 
 
 LISTA DE SUBMISSÕES DO FORMULÁRIO
