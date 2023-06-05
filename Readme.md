@@ -10,7 +10,7 @@ O objetivo era criar uma landing page para uma construtora com 04 seções:
 Todas as funcionalidades estão implementadas conforme o briefing.
 
 LINKS:
-Github: 
+Github: https://github.com/Geanderson12/Desafio-01---Landing-page-Arquitetura
 
 Netlify: 
 
