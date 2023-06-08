@@ -16,7 +16,9 @@ Netlify: https://landingpageaquitetura.netlify.app/
 
 
 LISTA DE SUBMISSÕES DO FORMULÁRIO
-        * https://docs.google.com/spreadsheets/d/1aysyFfYxEswdgyg0ttkq4KnGuxJZ3v6I1Slwgqfm6qg/edit#gid=0
+        * (atualizado)
+        https://docs.google.com/spreadsheets/d/1aysyFfYxEswdgyg0ttkq4KnGuxJZ3v6I1Slwgqfm6qg/edit
+           
 
  * Padrão de Resposividade
     Utilizei html{ font-size: 62.5%;}
